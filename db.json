@@ -1,0 +1,19 @@
+{
+  "clientes": [
+    {
+      "nombre": "Josue",
+      "empresa": "Aliyuky",
+      "email": "josue@juan.com",
+      "telefono": "31983913",
+      "notas": "ff",
+      "id": 3
+    },
+    {
+      "id": 4,
+      "nombre": "Miguel",
+      "telefono": 319381983,
+      "email": "miguel@juan.com",
+      "empresa": "Aliyuky"
+    }
+  ]
+}
